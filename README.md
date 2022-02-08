@@ -1,0 +1,1 @@
+# checkPalindrome-CodeSignal-Challenge-
